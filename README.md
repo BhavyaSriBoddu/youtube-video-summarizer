@@ -33,6 +33,12 @@ This project is a web app built with **Streamlit** that extracts captions from a
 - Export summaries to PDF or TXT
 - Include options like "Summarize in bullets" or "Explain like I'm 5"
 
+## 📄 Documentation
+
+- [📘 Project Report (PDF)](docs/Project_Report.pdf)
+- [▶️ Watch Project Demo Video]([https://drive.google.com/your-copied-link-here](https://drive.google.com/file/d/16R9TinazrSnzLAkieTrnaaMClF5i86vj/view?usp=drivesdk))
+
+
 ## 📄 License
 
 This project is intended for educational and non-commercial use only.
