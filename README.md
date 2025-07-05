@@ -36,7 +36,7 @@ This project is a web app built with **Streamlit** that extracts captions from a
 ## 📄 Documentation
 
 - [📘 Project Report (PDF)](docs/Project_Report.pdf)
-- [▶️ Watch Project Demo Video]([https://drive.google.com/your-copied-link-here](https://drive.google.com/file/d/16R9TinazrSnzLAkieTrnaaMClF5i86vj/view?usp=drivesdk))
+- [▶️ Watch Project Demo Video](https://drive.google.com/file/d/16R9TinazrSnzLAkieTrnaaMClF5i86vj/view?usp=drivesdk))
 
 
 ## 📄 License
